@@ -1,3 +1,4 @@
+# Improved by Daniel
 # Gender and Age Detection using OpenCV (Final Stable + Safe Exit)
 import cv2
 import argparse
